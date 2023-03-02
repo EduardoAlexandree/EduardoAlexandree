@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduardoalexandree
-- 👀 I’m interested in Learn Programming
-- 🌱 I’m currently learning Python and Linux
+- 👀 I’m interested in Learn Programming and embedded systems
+- 🌱 I’m currently learning Eletronic Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
